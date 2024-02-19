@@ -1,7 +1,4 @@
-# ChineseMNIST
-Great! Based on the information you've provided, here's a template for your README file:
 
-```
 # Chinese MNIST Image Classifier
 
 A project for classifying Chinese characters using a convolutional neural network (CNN). The dataset used for training and testing contains images of handwritten Chinese characters.
